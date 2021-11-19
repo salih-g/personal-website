@@ -1,19 +1,28 @@
 <template>
-	<div class="title">
-		<p class="text">{{ text }}</p>
+	<div class="main">
+		<h3 class="title">{{ title }}</h3>
+		<p class="definition">{{ definition }}</p>
 	</div>
 </template>
 
 <script>
 export default {
-	name: 'Navbar',
+	name: 'Title',
 	props: {
-		text: String,
+		title: String,
+		definition: String,
 	},
 };
 </script>
 
 <style scoped>
-.article {
+.main {
+	margin: 0 auto;
+	line-height: 2px;
+}
+.title {
+	font-weight: 600;
+	font-size: 24px;
+	margin-top: 50px;
 }
 </style>

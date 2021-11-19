@@ -17,7 +17,6 @@ export default {
 .introduction {
 	background-color: #323234;
 	padding: 5px;
-	max-width: 500px;
 	margin: 0 auto;
 	border-radius: 10px;
 
