@@ -1,9 +1,9 @@
 <template>
-	<div id="app">
+	<div id="app" class="container">
 		<Navbar title="Salih Gumus" />
-		<section class="body">
-			<Introduction text="Hello, I'm full-stach developer based in Turkey!" />
-		</section>
+		<article class="article">
+			<Introduction text="Hello, I'm full-stack developer based in Turkey!" />
+		</article>
 	</div>
 </template>
 
@@ -21,12 +21,11 @@ export default {
 </script>
 
 <style scoped>
-#app {
-	width: 736px;
+.container {
 	margin: 0 auto;
+	max-width: 768px;
 }
-.body {
-	width: 534px;
+.article {
 	margin: 0 auto;
 	padding-top: 40px;
 }

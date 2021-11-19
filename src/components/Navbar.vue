@@ -17,7 +17,7 @@ export default {
 
 <style scoped>
 .navbar {
-	width: 80%;
+	height: 56px;
 	margin: 0 auto;
 }
 .title {

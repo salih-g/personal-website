@@ -6,7 +6,7 @@
 
 <script>
 export default {
-	name: 'Navbar',
+	name: 'Introduction',
 	props: {
 		text: String,
 	},
@@ -17,9 +17,12 @@ export default {
 .introduction {
 	background-color: #323234;
 	padding: 5px;
-	width: 70%;
-
+	max-width: 500px;
+	margin: 0 auto;
 	border-radius: 10px;
+
+	font-weight: 500;
 	font-size: 14px;
+	text-align: center;
 }
 </style>
