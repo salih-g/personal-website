@@ -10,6 +10,7 @@
 			<Work />
 			<Bio />
 			<Love hobys="Playing, Photography, Skating, Riding a bike" />
+			<Web />
 		</article>
 	</div>
 </template>
@@ -21,6 +22,7 @@ import Title from '@/components/Title.vue';
 import Work from '@/components/Work.vue';
 import Bio from '@/components/Bio.vue';
 import Love from '@/components/Love.vue';
+import Web from '@/components/Web.vue';
 
 export default {
 	name: 'App',
@@ -31,6 +33,7 @@ export default {
 		Work,
 		Bio,
 		Love,
+		Web,
 	},
 };
 </script>
