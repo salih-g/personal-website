@@ -9,16 +9,18 @@
 			/>
 			<Work />
 			<Bio />
+			<Love hobys="Playing, Photography, Skating, Riding a bike" />
 		</article>
 	</div>
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue';
-import Introduction from './components/Introduction.vue';
-import Title from './components/Title.vue';
-import Work from './components/Work.vue';
-import Bio from './components/Bio.vue';
+import Navbar from '@/components/Navbar.vue';
+import Introduction from '@/components/Introduction.vue';
+import Title from '@/components/Title.vue';
+import Work from '@/components/Work.vue';
+import Bio from '@/components/Bio.vue';
+import Love from '@/components/Love.vue';
 
 export default {
 	name: 'App',
@@ -28,6 +30,7 @@ export default {
 		Title,
 		Work,
 		Bio,
+		Love,
 	},
 };
 </script>

@@ -3,13 +3,13 @@
 		<h3 class="title">Bio</h3>
 		<div class="bio">
 			<div class="born">
-				<h4>1995</h4>
-				<p>Born in Adana Turkey</p>
+				<span class="span">1995</span>
+				Born in Adana Turkey.
 			</div>
 			<br />
 			<div class="school">
-				<h4>1995</h4>
-				<p></p>
+				<span class="span">2018</span>
+				I'm currently studying Computer Engineering in Duzce University
 			</div>
 		</div>
 	</div>
@@ -30,7 +30,10 @@ export default {
 	border-bottom: 5px solid #525252;
 	width: 30px;
 }
-.born h4 {
+
+.span {
 	font-size: 20px;
+	display: inline-block;
+	margin-right: 10px;
 }
 </style>
