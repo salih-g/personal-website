@@ -1,5 +1,9 @@
 html {
 	background-color: #202023;
 	color: #ededed;
-	font-family: 'Noto Serif', serif;
+	font-family: 'BioRhyme', serif;
+}
+.link {
+	text-decoration: none;
+	color: inherit;
 }
