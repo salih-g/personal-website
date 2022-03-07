@@ -3,20 +3,20 @@
 		<h3 class="title">On the Web</h3>
 		<span>
 			<a
-				href="https://github.com/sudanmerinosu/"
+				href="https://github.com/salih-g/"
 				target="_blank"
 				class="link hover"
 			>
-				<i class="fab fa-github"></i> @sudanmerinosu
+				<i class="fab fa-github"></i> @salih-g
 			</a>
 		</span>
 		<span>
 			<a
-				href="https://gitlab.com/sudanmerinosu"
+				href="https://gitlab.com/salih-g/"
 				target="_blank"
 				class="link hover"
 			>
-				<i class="fab fa-gitlab"></i> @sudanmerinosu
+				<i class="fab fa-gitlab"></i> @salih-g
 			</a>
 		</span>
 		<span>
