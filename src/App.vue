@@ -7,7 +7,7 @@
 				title="Salih Gumus"
 				definition="Technologist (Full-Stack Developer)"
 			/>
-			<Work />
+			<!-- <Work /> -->
 			<Bio />
 			<Love hobys="Playing, Photography, Skating, Riding a bike" />
 			<Web />
