@@ -11,6 +11,11 @@
 				<span class="span">2018</span>
 				I'm currently studying Computer Engineering in Duzce University
 			</div>
+			<br />
+			<div class="work">
+				<span class="span">August 2021</span>
+				I started to work Modanisa as Full-Stack developer
+			</div>
 		</div>
 	</div>
 </template>
