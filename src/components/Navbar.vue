@@ -4,7 +4,7 @@
 			<a href="/" class="link">{{ title }} </a>
 		</span>
 		<a
-			href="https://github.com/sudanmerinosu/"
+			href="https://github.com/salih-g/"
 			target="_blank"
 			class="link hover"
 		>
