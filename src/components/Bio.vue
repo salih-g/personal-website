@@ -13,8 +13,8 @@
 			</div>
 			<br />
 			<div class="work">
-				<span class="span">August 2021</span>
-				I started to work Modanisa as Full-Stack developer
+				<span class="span">Aug 2021</span>
+				I started to work at Modanisa as a Full-Stack developer
 			</div>
 		</div>
 	</div>
