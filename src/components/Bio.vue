@@ -13,7 +13,7 @@
 			</div>
 			<br />
 			<div class="work">
-				<span class="span">Aug 2021</span>
+				<span class="span">Dec 2021</span>
 				I started to work at Modanisa as a Full-Stack developer
 			</div>
 		</div>

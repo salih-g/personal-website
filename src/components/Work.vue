@@ -2,10 +2,17 @@
 	<div class="main">
 		<h3 class="work">Work</h3>
 		<p class="prag">
-			Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos
-			eaque mollitia unde veritatis provident, illum cumque deleniti magni
-			obcaecati eum animi iste fuga magnam beatae maiores rerum, odio impedit
-			molestiae.
+			I'm currently working as a Full Stack developer and the way we work 
+			<ul>
+				<li>Continuous Integration with Gitlab</li>
+				<li>High-quality product supported with ATDD/TDD, integration tests, unit tests, CDC tests</li>
+				<li>Highly scalable microservice architecture</li>
+				<li>Restful API with Golang</li>
+				<li>Database migrations for services</li>
+				<li>Micro Frontend architecture by Vue</li>
+				<li>Pair Programming</li>
+				<li>Agile work model</li>
+			</ul>  
 		</p>
 	</div>
 </template>
